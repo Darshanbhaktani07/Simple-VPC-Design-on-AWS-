@@ -139,7 +139,6 @@ simple-vpc-design/
 | NAT Gateway set up | `screenshots/05-nat-gateway.png` |
 | Connectivity test | `screenshots/06-connectivity-test.png` |
 
-> Tip: Embed these directly with `![VPC Created](screenshots/01-vpc-created.png)`
 
 ---
 
