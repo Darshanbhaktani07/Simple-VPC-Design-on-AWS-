@@ -117,8 +117,6 @@ Create two subnets inside your VPC:
 ```
 simple-vpc-design/
 ├── README.md
-├── diagrams/
-│   └── vpc-architecture.png
 └── screenshots/
     ├── 01-vpc-created.png
     ├── 02-subnets-created.png
@@ -136,7 +134,6 @@ simple-vpc-design/
 | Subnets created | `screenshots/02-subnets-created.png` |
 | Internet Gateway attached | `screenshots/03-igw-attached.png` |
 | Route tables configured | `screenshots/04-route-tables.png` |
-| NAT Gateway set up | `screenshots/05-nat-gateway.png` |
 | Connectivity test | `screenshots/06-connectivity-test.png` |
 
 
